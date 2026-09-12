@@ -1,12 +1,18 @@
-# Mork Borg World
+<div style='position:absolute; top:50%; left:0; width:100%; transform:translateY(-50%); text-align:center; color:white; text-shadow:2px 2px 4px #000; z-index:10;'>
+
+# Kako je najebo Belsum
+
+</div>
+## Solo na Srpskom 
+### #12 - SEP - 2026 
+
+created by Conbranet at 12-SEP-2026
 
 <img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/Naslovna.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%; object-fit:cover;' />
 
 \page
 
-12-SEP-2026
 
-# Solo na Srpskom :)
 
 ### Belsum
 
