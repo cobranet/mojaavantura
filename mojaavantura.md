@@ -1,5 +1,9 @@
 # Mork Borg World
 
+<img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/Naslovna.png' style='position:absolute; top:0px; left:0px; width:100%; height:100%; object-fit:cover;' />
+
+\page
+
 12-SEP-2026
 
 # Solo na Srpskom :)
