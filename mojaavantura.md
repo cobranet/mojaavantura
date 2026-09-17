@@ -118,15 +118,21 @@ Polako pada noć, mada se ne vidi jasno, jer je i celi dan bio mrkli mrak. Ali e
 Ja počeh da mucam mada ne znam zašto jer nisam ništa slagao "Da nešto izlazi iz zidova"
 
 "Pa nije na meni da odlučujem o Gastovim odlukama" porkašlja Borda. 
-"Video si obor "
+"Video si obor gde rije Kopač leševe, gde bacaju krivokletnike i dezertere, da bi se zabavaljali mučenici pre sledeće Bede?" 
+"Čuo sam za to, ali ne idem na takva mesta.. znam gde je, ako to pitaš" 
 
+Barda prevnu očima, pa reče : "E sa leve strane obora postoji poklopac .. ljudi veruju da je to odvod za govna, ali nije.. tu je ulaz u Trule Katakombe gde završavaju svi koje je Kopač ubio. Unutra je tvoj majmun, verovatno ga je Gast tamo i stavio da bi te proverio"
 
 <img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/borda.png' 
 style='position:absolute; top:0px; right:0px; width:50%; height:100%; object-fit:cover; z-index:-1;' />  
 
 \page
 
+<img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/UlazUKatakombe.png' />  
+\page
+
 ##### Trule katakombe
+ 
 ###### Status
 Nekativne .. jer se neka beda ispunila
 ###### Opasnost
@@ -136,9 +142,9 @@ Dezerteri i krivokletnici osudjeni da većno borave tamo..
 ###### Ulaz
 Tvelandska grobna humka, obeležena lobanjom na 
 ###### Straza
-Nemrtva divlja svinja koja slepo izvršava naređenja.
+
 Kopač Humki
-Large undead, unthinking
+Veliki vepar ubijen pre 100 godina a nekako se kreće.. Služi u areni za zabavu mučenicima. Tamo uvode krivokletnike i dezertere da ih vepar raspori .. Sahrane ih tu u areni .. plitko.. A sutra kad nema publike puste Kopača da jede.. 
 
 HP 14
 Armor Debela koža (D2)
@@ -150,20 +156,15 @@ Trule, ali još uvek dovoljno snažne da probiju lakši oklop.
 
 Special
 Prvi juriš.  
-Kada Kopač Humki prvi put u borbi napadne:
+Kada Kopa leševa prvi put u borbi napadne:
 • Cilj se brani na D14  
 • Ako pogodi, nanosi 2×D6 štete
 • Zemlja i trulež koje razbacuje otežavaju odbranu i zaslepljuju protivnika
 
-Behavior
-• Slepo prati naređenja svog gospodara
+
 • Kopa se kroz zemlju, humke i trupla
 • Napada prvo ono što se kreće ili diše
-• Ne povlači se osim po naređenju
-
-Encounter Notes
 • Čuva ulaze u humke i grobnice
-• Često služi nekromantima, kultistima i duhovima Tvelanda
 • Zvuk dubokog rovanja najavljuje njegov dolazak
 
 
