@@ -117,4 +117,64 @@ Polako pada noć, mada se ne vidi jasno, jer je i celi dan bio mrkli mrak. Ali e
 
 Ja počeh da mucam mada ne znam zašto jer nisam ništa slagao "Da nešto izlazi iz zidova"
 
+"Pa nije na meni da odlučujem o Gastovim odlukama" porkašlja Borda. 
+"Video si obor "
+
+
+<img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/borda.png' 
+style='position:absolute; top:0px; right:0px; width:50%; height:100%; object-fit:cover; z-index:-1;' />  
+
+\page
+
+##### Trule katakombe
+###### Status
+Nekativne .. jer se neka beda ispunila
+###### Opasnost
+Smrtonosni mehanizam preti da se pokrene 
+###### Ko vreba
+Dezerteri i krivokletnici osudjeni da većno borave tamo.. 
+###### Ulaz
+Tvelandska grobna humka, obeležena lobanjom na 
+###### Straza
+Nemrtva divlja svinja koja slepo izvršava naređenja.
+Kopač Humki
+Large undead, unthinking
+
+HP 14
+Armor Debela koža (D2)
+Speed Sporo rovanje, brzi juriš na kratkoj distanci
+
+Attacks
+Kljove. Bliski napad: D6 štete.
+Trule, ali još uvek dovoljno snažne da probiju lakši oklop.
+
+Special
+Prvi juriš.  
+Kada Kopač Humki prvi put u borbi napadne:
+• Cilj se brani na D14  
+• Ako pogodi, nanosi 2×D6 štete
+• Zemlja i trulež koje razbacuje otežavaju odbranu i zaslepljuju protivnika
+
+Behavior
+• Slepo prati naređenja svog gospodara
+• Kopa se kroz zemlju, humke i trupla
+• Napada prvo ono što se kreće ili diše
+• Ne povlači se osim po naređenju
+
+Encounter Notes
+• Čuva ulaze u humke i grobnice
+• Često služi nekromantima, kultistima i duhovima Tvelanda
+• Zvuk dubokog rovanja najavljuje njegov dolazak
+
+
+
+###### Posebna osobina
+Nespokojni manijaci, mentalno vezani za to mesto. 
+
+###### Sobe
+1: Sveće koje gore naopačke. Neshvatljiv svitak<br>
+2: Puno krhotina. Napukli opsidijanski bazilisk.<br>
+3: Teška škrinja. Biljka Snage.<br>
+4: Šapat. Izgubljeni bledi traži da se pridruži družini (Morale 3).<br>
+
 
