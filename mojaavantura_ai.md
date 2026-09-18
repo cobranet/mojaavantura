@@ -7,29 +7,31 @@ Date: 12-SEP-2026
 <style>
   body {
     background: #0d0d0d;
-    color: #e7d7ad;
+    color: #111111;
     font-family: Georgia, "Times New Roman", serif;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: #f0d77a;
+    color: #000000;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     font-weight: 700;
+    text-shadow: 0 2px 3px #888888;
   }
 
   p, li, td, th {
-    color: #eadfc0;
+    color: #111111;
+    text-shadow: 0 1px 2px #888888;
   }
 
   table {
-    border: 1px solid #7a5a2a;
-    background: rgba(20, 17, 11, 0.72);
+    border: 1px solid #555555;
+    background: rgba(245, 240, 230, 0.96);
     width: 100%;
   }
 
   th, td {
-    border-bottom: 1px solid #4b3a22;
+    border-bottom: 1px solid #999999;
     padding: 4px 8px;
   }
 
@@ -38,7 +40,7 @@ Date: 12-SEP-2026
   }
 
   .page {
-    background: transparent;
+    background: rgba(245, 240, 230, 0.92);
   }
 </style>
 
