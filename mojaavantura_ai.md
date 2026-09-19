@@ -36,7 +36,7 @@ Date: 12-SEP-2026
   }
 
   img {
-    filter: grayscale(100%) contrast(1.15) sepia(0.18) brightness(0.9);
+    filter: grayscale(30%) contrast(1.15) sepia(0.18) brightness(0.9);
   }
 
   .page {
@@ -168,6 +168,20 @@ Nema mnogo ljubavi za mene u Šansi. Debeli je posebno ljut danas i nije nasao n
 
 Kada sam ga pitao za Bordu, dao mi je na znanje da zna nešto, ali da je trenutno zauzet. Rekao je da treba da naručim mlako pivo po ceni od 2s, da bih saznao da je to neka jednonoga baba koja dolazi uveče da počisti krčmu.
 
+Negde sam ukrao ovaj oklop i sekiru ali to je za neke hrabrije od mene.. Olučujem da prodam oklop i sekiru , kupujem samostrel , 20 strelica i kožni prsluk ... 
+
+### Oprema
+
+| Šta                | Broj | Poenta          |
+|:------------------:|:----:|:---------------:|
+| Čuturica           | 3    | za koliko dana  |
+| Hrana              | 2    | za kolko dana   |
+| Srebro             | 96   | Novac           |
+| Pečurke za lečenje | 4    | 1D6             |
+| Samostrel          | 1    | 1D8             |
+| Strelice           | 20   | 1D8             |
+
+
 Kako sam imao par sati, izašao sam napolje i poslao majmune da se popnu na prozore. Izgleda da bez treće glave ne umeju da funkcionišu. Ne samo što ništa nisu pronašli, nego sam morao da kupim dva pakla duvana za žvakanje za 6s da bih ih nagovorio da siđu.
 
 Novac se brzo troši. Moram požuriti da vratim svog majmuna.
@@ -288,5 +302,34 @@ style='width:100%; height:260px; object-fit:cover; border:2px solid #aa8c42; mar
 
 Zapušteno,zadimljeno mesto. Nekakva ćellija verovatno. Bez prozora. 
 Svuda okolo su su sveće koje gore naopako i jako dime a dim se skuplja na podu .. Kao da je nekako težak taj crni dim .. Pod se od njega ne vidi ..    
+
+**Test:** Ispitujem sobu   
+
+*DR 12 vs 17,9   -  Week hit*  
+
+Ne pronalazim ništa... Ali slučajno sam pomerio jednu sveću i sad je nekako kriva. Da probam da ih okrenem sve... 
+
+**Test:** Okrećemm sveće da gore prema gore   
+
+*DR 12 vs 19,12   -  Strong hit*  
+
+ Okrenuo sam sveće i odjedanput se dim polako diže prema plafonu. Dim se rasčistio sa poda i u ćošku sobe primećujem svitak. Podižem ga. Pokušavam da ga pročitam ali je potpuno ne razumljiv.. Ili je na nekom jeziku koji ne znam ili je nekakva šifra. 
+Ne nalazim ništa više... Jedini drugi izlaz je je ka jugu ... Pokušaću da uđem u sledeću prostoriju polako da ako tamo nešto čeka ne budem iznenadjen.
 }}
+
+{{descriptive
+
+###### Soba 1
+<img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/GotvinKrivokletnik.png' 
+style='width:100%; height:260px; object-fit:cover; border:2px solid #aa8c42; margin-bottom:8px;' />
+**Test:** Šunjanje sa mitrom na glavi u novu prostoriju 
+
+*DR 8 vs 15,1   -  Fail*  
+
+Kako sam ušao u prostoriju što je nekad mogla biti biblioteka sa gomilom polica sada bez knjiga, i opskurnim crtežima po zidovima iz zida kao da se odguruje izvači se utvara u oklopu .. 
+
+}}
+
+
+
 
