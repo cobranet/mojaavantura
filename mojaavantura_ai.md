@@ -188,7 +188,7 @@ Počeh da mucam, mada ne znam zašto, jer nisam ništa slagao: "Da nešto izlazi
 
 "Čuo sam za to, ali ne idem na takva mesta. Znam gde je, ako to pitaš."
 
-Borda prevuče očima i reče: "E, sa leve strane obora postoji poklopac. Ljudi misle da je to odvod za govna, ali nije. Tu je ulaz u Trule Katakombe, gde završavaju svi koje je Kopač ubio. Unutra je tvoj majmun — verovatno ga je Gast tamo i stavio da bi te proverio."
+Borda prevuče očima i reče: " U oboru su vrata za Trule Katakombe, gde završavaju svi koje je Kopač ubio.  Unutra je tvoj majmun — verovatno ga je Gast tamo i stavio da bi te proverio."
 
 <img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/borda.png' 
 style='width:100%; height:260px; object-fit:cover; border:2px solid #aa8c42; margin-top:8px;' />
@@ -259,3 +259,34 @@ Nespokojni manijaci, mentalno vezani za to mesto.
 3. Teška škrinja. Biljka Snage.
 4. Šapat. Izgubljeni bledi traži da se pridruži družini (Morale 3).
 }}
+
+\page
+#### Prolaz kroz katakombe 
+
+{{descriptive
+###### Obor 
+Ostavio sam majmune u napušetenoj kući. Naljbolja šansa da prodjem kopača neprimećen sa mitrom na glavi a tu majmuni samo smetaju. 
+Noć je.. Došao sam do obora i vidim ga gde leži u samom centru.. Ogromna crna senka na sredini obora.. vidim i gde je ulaz.. Navučem mitru na glavu.. i krećem polako
+
+Pokušavam da se prošunjam pored Kopača Humki.
+
+
+**Test:** Šunjanje sa mitrom na glavi  
+
+*DR 8 vs 14,10   -  Strong hit*  
+
+Odlično stigao sam ne primećen do od vrata .. Spuštam se dole .. 
+
+}}
+
+{{descriptive
+###### Soba I 
+
+<img src='https://raw.githubusercontent.com/cobranet/mojaavantura/main/SobaSaSvecama.png' 
+style='width:100%; height:260px; object-fit:cover; border:2px solid #aa8c42; margin-bottom:8px;' />
+
+
+Zapušteno,zadimljeno mesto. Nekakva ćellija verovatno. Bez prozora. 
+Svuda okolo su su sveće koje gore naopako i jako dime a dim se skuplja na podu .. Kao da je nekako težak taj crni dim .. Pod se od njega ne vidi ..    
+}}
+
