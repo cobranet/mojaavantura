@@ -236,29 +236,31 @@ Tvelandska grobna humka, obeležena lobanjom na vrhu.
 
 {{descriptive
 ##### Straza
-Kopač Humki
+{{monster,frame
+## Kopač Humki
+*Nemrtvi vepar, čuvar katakombi*
 
-Veliki vepar ubijen pre 100 godina, a nekako se kreće. Služi u areni za zabavu mučenicima. Tamo uvode krivokletnike i dezertere da ih vepar raspori. Sahrane ih u areni, plitko, a sutra, kad nema publike, puste Kopača da jede.
+Veliki vepar ubijen pre sto godina, ali njegovo telo i dalje rovari kroz humke i trupla. Služi u areni za zabavu mučenicima. Tamo uvode krivokletnike i dezertere da ih vepar raspori. Sahrane ih u areni, plitko, a sutra, kad nema publike, puste Kopača da jede.
 
-HP 14
-Armor: Debela koža (D2)
-Speed: Sporo rovanje, brz juriš na kratkoj distanci
+___
+**HP** 14  
+**Armor** Debela koža D2  
+**Speed** Sporo rovanje; brz juriš na kratkoj distanci
+___
 
-Attacks
-Kljove. Bliski napad: D6 štete.
-Trule, ali i dalje dovoljno snažne da probiju lakši oklop.
+### Napadi
 
-Special
-Prvi juriš.
-Kada Kopa leševa prvi put u borbi napadne:
-• Cilj se brani na D14
-• Ako pogodi, nanosi 2×D6 štete
-• Zemlja i trulež koje razbacuje otežavaju odbranu i zaslepljuju protivnika
+**Kljove.** Bliski napad: D6 štete. Trule, ali i dalje dovoljno snažne da probiju lakši oklop.
 
-• Kopa se kroz zemlju, humke i trupla
-• Napada prvo ono što se kreće ili diše
-• Čuva ulaze u humke i grobnice
-• Zvuk dubokog rovanja najavljuje njegov dolazak
+### Posebno
+
+**Prvi juriš.** Kada Kopač prvi put napadne u borbi, cilj se brani na D14. Ako pogodi, nanosi 2×D6 štete.
+
+**Rovarenje.** Kopa se kroz zemlju, humke i trupla. Zvuk dubokog rovanja najavljuje njegov dolazak.
+
+**Lovac.** Napada prvo ono što se kreće ili diše. Čuva ulaze u humke i grobnice.
+
+**Trulež.** Zemlja i trulež koje razbacuje otežavaju odbranu i zaslepljuju protivnika.
 }}
 
 {{descriptive
@@ -327,6 +329,34 @@ style='width:100%; height:260px; object-fit:cover; border:2px solid #aa8c42; mar
 *DR 8 vs 15,1   -  Fail*  
 
 Kako sam ušao u prostoriju što je nekad mogla biti biblioteka sa gomilom polica sada bez knjiga, i opskurnim crtežima po zidovima iz zida kao da se odguruje izvači se utvara u oklopu .. 
+
+**Test:** Reakcija Uvare
+*CORE 31 vs 7 Neutralan
+
+Utvara me gleda, ne progovara ... kao da još nije odlučila šta da radi sa mnom... 
+"Kkooo koo si ti ?" promucah.
+"Ja sam Gotven Krivokletnik, bačen u obor jer sam izdao kralja Fatmua VIII, prvi koji je ovde bačen i gospodar ovog mesta"  
+
+{{monster,frame
+## Utvara Gotvena Krivokletnika
+*Utvara CORE 61*
+
+Čuveni izdajnik krajlja Fatmua VIII i prvi koji je bačen u obor.
+
+___
+**HP** 15
+**Morale** - 
+**Armor** -  
+___
+
+### Napadi
+
+**Dodir.** Bliski napad: D4 + smanjuje Snagu, Koncentraciju i Pokretnost za 1 dok traje borba.
+
+### Posebno
+
+**Prvi napad** Uvek napada prvi - nemoguće ga je iznanaditi
+}}
 
 }}
 
